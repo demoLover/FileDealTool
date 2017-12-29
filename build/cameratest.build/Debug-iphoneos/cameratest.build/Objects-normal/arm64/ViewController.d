@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/aniu/workspace/projects/cameratest/cameratest/ViewController.mm \
+  /Users/aniu/workspace/projects/cameratest/cameratest/ViewController.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/opencv.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/opencv_modules.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/core/core_c.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/core/types_c.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/core/core.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/core/version.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/core/operations.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/core/mat.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/flann/miniflann.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/flann/defines.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/flann/config.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/imgproc/imgproc_c.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/imgproc/types_c.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/imgproc/imgproc.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/photo/photo.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/photo/photo_c.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/video/video.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/video/tracking.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/video/background_segm.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/features2d/features2d.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/objdetect/objdetect.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/calib3d/calib3d.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/core/affine.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/ml/ml.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/highgui/highgui_c.h \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/highgui/highgui.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/contrib/contrib.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/contrib/retina.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/opencv2.framework/Headers/contrib/openfabmap.hpp \
+  /Users/aniu/workspace/projects/cameratest/Frameworks/light_label_detection.hpp
