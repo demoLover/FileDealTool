@@ -41,6 +41,7 @@ xcuserdata/
 # Carthage/Checkouts
 
 Carthage/Build
+Frameworks/opencv2.framework
 
 # fastlane
 #
